@@ -2,9 +2,10 @@
   "expo": {
     "name": "ford-competitiva",
     "slug": "ford-competitiva",
+    "owner": "julia_silva77",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.webp",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true
@@ -24,7 +25,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "6b36b110-54aa-4fb6-b0c3-1e81186c8e23"
+        "projectId": "0e11b79f-8033-4776-95e3-cebcaab989c0"
       }
     }
   }
