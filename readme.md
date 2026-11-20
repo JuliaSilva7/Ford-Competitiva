@@ -6,17 +6,6 @@ O aplicativo tem como objetivo centralizar informações de veículos, permitind
 
 ---
 
-## 👥 Integrantes
-
-| Nome | RM |
-|---|---|
-| Fernando Carlos Colque Huaranca | RM558095 |
-| Gabriel Guilherme Leste | RM558638 |
-| Gabriel Lacerda Araújo | RM558307 |
-| Julia Carolina Ferreira Silva | RM558896 |
-
----
-
 # 📱 Sobre o Projeto
 
 <p align="center">
