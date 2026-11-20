@@ -12,8 +12,8 @@ import {
 import { Ionicons } from '@expo/vector-icons';
 
 export const LoginScreen = ({ onLogin }: { onLogin: () => void }) => {
-  const [email, setEmail] = useState('gabriel@ford.com.br');
-  const [password, setPassword] = useState('123456');
+  const [email, setEmail] = useState('admin@ford.com.br');
+  const [password, setPassword] = useState('12345');
 
   return (
     <SafeAreaView style={styles.container}>
